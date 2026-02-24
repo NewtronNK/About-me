@@ -31,7 +31,7 @@ I enjoy working in collaborative teams, refining UX/UI, and integrating secure a
 - Built a web application for score announcements with a team of 4  
 - Responsibilities: database design, CMU OAuth & Google authentication, Excel (.xlsx) integration  
 - Designed and implemented score announcement section with CRUD operations
-- *The showcase file is restricted from public access due to the university’s privacy policy.*
+[The showcase file is restricted from public access due to the university’s privacy policy.]
 
 ### Attendance Checking Website – Oct 2025
 - Collaborated with a team of 6 to develop a classroom attendance system for a real customer  
