@@ -17,6 +17,7 @@ I enjoy working in collaborative teams, refining UX/UI, and integrating secure a
 - **Tools & Technologies:** Docker, PostgreSQL, Node.js, React, Git, Figma  
 - **Core Competencies:** Database design, UX/UI development, Secure authentication (CMU OAuth, Google), Excel (.xlsx) integration  
 - **Languages:** Thai (Advanced), English (Upper Intermediate), Mandarin Chinese (Intermediate)
+- **Another relevant:** AI prompting skills, Strong Communication Skills
 
 ---
 
@@ -33,6 +34,11 @@ I enjoy working in collaborative teams, refining UX/UI, and integrating secure a
 - Designed and implemented score announcement section with CRUD operations
 
 [The showcase file is restricted from public access due to the university’s privacy policy.]
+
+### Algorithm-Based Route Optimization Project - March 2025
+- Optimize travel routes based on time and distance constraints
+- Maximize travel efficiency within limited days
+- Apply algorithmic problem-solving techniques in a real-world scenario
 
 ### Attendance Checking Website – Oct 2025
 - Collaborated with a team of 6 to develop a classroom attendance system for a real customer  
