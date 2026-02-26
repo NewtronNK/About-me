@@ -54,6 +54,7 @@ I enjoy working in collaborative teams, refining UX/UI, and integrating secure a
 
 - **Research: Dynamic Difficulty Adjustment (DDA)** – Mar 2026 to Present  
   Conducted research using a fishing game simulation to measure player experience, difficulty balancing, and reward systems
+  
   The full project is not publicly available; however, it can be provided for review upon request.
 ---
 
