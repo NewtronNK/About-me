@@ -13,11 +13,15 @@ I enjoy working in collaborative teams, refining UX/UI, and integrating secure a
 ---
 
 ## 💻 Technical Skills
-- **Languages:** Python, Java, C/C++, Golang, Dart, JavaScript, HTML, CSS, Prolog  
-- **Tools & Technologies:** Docker, PostgreSQL, Node.js, React, Git, Figma  
-- **Core Competencies:** Database design, UX/UI development, Secure authentication (CMU OAuth, Google), Excel (.xlsx) integration  
+- **Languages:** C++, Python, JavaScript, Go  
+- **Frontend:** React, HTML, CSS  
+- **Backend:** Node.js, REST API, PostgreSQL  
+- **Game Dev:** C++, C#, Gameplay Systems  
+- **Tools:** Docker, Git, Figma  
+
+**Other Skills:** Database Design, OAuth Authentication (CMU, Google), UX/UI Development
 - **Languages:** Thai (Advanced), English (Upper Intermediate), Mandarin Chinese (Intermediate)
-- **Another relevant:** AI prompting skills, Strong Communication Skills
+- **Another relevant:** Team Collaboration, Strong Communication Skills, Problem Solving Skills
 
 ---
 
