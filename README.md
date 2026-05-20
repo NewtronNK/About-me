@@ -7,7 +7,7 @@ I enjoy working in collaborative teams, refining UX/UI, and integrating secure a
 
 ## 🎓 Education
 - **Chiang Mai University**, Chiang Mai, Thailand  
-  B.S. in Computer Science | GPA: 3.47/4.0  
+  B.S. in Computer Science | GPA: 3.52/4.0  
   Relevant Courses: Data Structures, Databases, Software Engineering, Algorithm Design, Mobile App Development, OOP
 
 ---
