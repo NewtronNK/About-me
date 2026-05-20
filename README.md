@@ -1,7 +1,7 @@
 # Rattanan Deewongsai
 
 👋 Hi! I'm Rattanan, a Computer Science student at Chiang Mai University with a passion for building practical. 
-I enjoy working in collaborative teams, refining UX/UI, and integrating secure authentication systems.
+I enjoy working in collaborative teams, refining UX/UI, and game developing.
 
 ---
 
