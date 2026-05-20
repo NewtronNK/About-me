@@ -19,7 +19,7 @@ I enjoy working in collaborative teams, refining UX/UI, and integrating secure a
 - **Tools:** Docker, Git, Figma  
 
 - **Other Skills:** Database Design, OAuth Authentication (CMU, Google), UX/UI Development
-- **Languages:** Thai (Advanced), English (Upper Intermediate), Mandarin Chinese (Intermediate)
+- **Languages:** Thai (Native), English (Upper Intermediate), Mandarin Chinese (Intermediate)
 - **Another relevant:** Team Collaboration, Strong Communication Skills, Problem Solving Skills, Gameplay Systems 
 
 ---
